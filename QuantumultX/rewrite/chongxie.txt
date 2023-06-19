@@ -1429,7 +1429,7 @@ https?:\/\/api\.taptapdada\.com\/startup\-logo\/v1\/combo\? url reject-dict
 ^https?:\/\/y\.gtimg\.cn\/music\/common\/upload\/targeted_ads url reject-img
 ^https?:\/\/((25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\/music\/common\/upload\/t_splash_info\/ url reject
 # > 腾讯广告
-^https?:\/\/btrace\.qq\.com url reject-200
+^https?:\/\/h\.trace\.qq\.com url reject-200
 ^https?:\/\/api2\.helper\.qq\.com\/game\/buttons url reject-img
 ^https?:\/\/\w+\.beacon\.qq\.com url reject
 ^https?:\/\/mi\.gdt\.qq\.com\/gdt_mview\.fcg url reject
